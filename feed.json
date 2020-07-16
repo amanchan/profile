@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MySite",
+    "description": "",
+    "home_page_url": "https:////amanchan.github.io/profile",
+    "feed_url": "https:////amanchan.github.io/profile/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Anil Manchanda"
+    },
+    "items": [
+    ]
+}
